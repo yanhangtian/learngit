@@ -6,4 +6,9 @@ e
 f
 g
 h
+<<<<<<< HEAD
 master
+=======
+i
+dev
+>>>>>>> dev
